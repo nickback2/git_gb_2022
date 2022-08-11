@@ -31,7 +31,7 @@ __git push__ - отправить версию с на сервер
 
 __git pull__ - получить версию с сервера
 
-# This file part of file created for thanks to our teachers
+# This part of file created for thanks to our teachers
 And we have to thank:
 
 1. Ilnar Shafigullin (our Lector)
