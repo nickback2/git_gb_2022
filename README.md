@@ -6,4 +6,6 @@
 
 Картинка Ребята старой школы изучают Бейсик
 
-![oldschoolboys](oldschool.jpg)
+
+
+![oldschool](oldschool.jpg)
