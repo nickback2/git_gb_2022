@@ -36,7 +36,7 @@ to put numbered lists you can use (*)
 
 ## HOW TO WORK WITH IMAGES
 
-to add any image you need to put ![sup](pig.jpg)
+to add any image you need to put ![sup](pig.png)
 
 ## links 
 
