@@ -14,3 +14,5 @@
 *git push --set-upstream origin*_название ветки - новая ветка в vs code, которую нужно залить в github
 
 *git remote -v* - узнать, точно ли есть некий сервер origin и адрес
+
+cd- имя папки, например cd os
