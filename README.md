@@ -26,5 +26,12 @@
 
 [Сайт GB](https://gb.ru/)
 
+## Команды Git для работы с удаленными репозиториями
+
+* git clone
+* git push
+* git pull
+* git pull request
+
 
 
