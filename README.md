@@ -31,7 +31,7 @@
 * git clone
 * git push
 * git pull
-* git pull request
+
 
 
 
