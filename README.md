@@ -7,7 +7,7 @@
 Картинка
 ![cat pic](cat.jpg) 
 
-![dog pic][dog.jpg] 
+![dog pic](dog.jpg) 
 Список:
 
 1. Первый.
