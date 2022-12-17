@@ -25,30 +25,13 @@
 3 Третий пункт
 
 ## Работа с изображениями
-
-## Ссылки
- ![снежинка](https://images.wallpapersden.com/image/download/snowflake-shape-snow_Z2ptZ2WUmZqaraWkpJRtZWWtZmdtZQ.jpg)
  
 ## Работа с таблицами
 
 ## Цитаты
-
-## Работа с изображениями
-3 Третий пункт## 
-
-Работа с изображениями
-
+![leon](https://sun9-35.userapi.com/c850236/v850236059/7bdd5/_nioUtZrtpc.jpg)
 
 ## Ссылки
-
-## Работа с таблицами
-
-## Цитаты
-
-## Работа с изображениями
-
-![снежинка](https://images.wallpapersden.com/image/download/snowflake-shape-snow_Z2ptZ2WUmZqaraWkpJRtZWWtZmdtZQ.jpg)
-![leon](https://sun9-35.userapi.com/c850236/v850236059/7bdd5/_nioUtZrtpc.jpg)
 
 ## Работа с таблицами
 
