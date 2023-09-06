@@ -36,12 +36,24 @@
  ## git diff
  *git diff* показывает изменения между текущим файлом и сохраненным
 
- ## Полезные ссылки
+# Работа с удаленными репозиториями в Git
+
+## git clone
+*git clone* <url-адрес репозитория> позволяет клонировать внешний репозиторий на локальный ПК
+
+## git pull
+*git pull* – получение изменений и слияние с локальной версией
+
+## git push
+*git push* отправляет локальную версию репозитория на внешний
+
+**git push --set --upstream origin <имя ветки>** -для отправки во внешний репозиторий информации о ветке, созданной локально
+ # Полезные ссылки
  * [Установка Git для Windows, MAC, Linux](https://git-scm.com/downloads)
 
  * [Установка VSCode для Windows, MAC, Linux](https://code.visualstudio.com/Download)
 
  * [Справочник по Markdown от Microsoft](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
-### Теперь даже котик разберется, как работать с Git!
+# Теперь даже котик разберется, как работать с Git!
  ![Котик](https://avatars.dzeninfra.ru/get-zen_doc/912331/pub_5c76a9133a1fd900b3bd197b_5c76a9a3c873bc00afc52d09/scale_1200)
